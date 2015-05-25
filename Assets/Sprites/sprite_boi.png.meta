@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: b1cb38295730c12489252727245a483e
+timeCreated: 1432385440
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sprite_boi_0
+    21300002: sprite_boi_1
+    21300004: sprite_boi_2
+    21300006: sprite_boi_3
+    21300008: sprite_boi_4
+    21300010: sprite_boi_5
+    21300012: sprite_boi_6
+    21300014: sprite_boi_7
+    21300016: sprite_boi_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sprite_boi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 143
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_boi_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 96
+        width: 143
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_boi_2
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 96
+        width: 143
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_boi_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 143
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_boi_4
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 0
+        width: 143
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_boi_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_boi_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 192
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_boi_7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 193
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_boi_8
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 192
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
